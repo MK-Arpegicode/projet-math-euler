@@ -1,1 +1,2 @@
-# projet-math-euler
+# La constante d'Euler-Mascheroni
+
